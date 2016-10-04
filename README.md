@@ -1,2 +1,3 @@
-# android_device_ztev0720
-cm13 project for zte blade v7 lite
+Copyright 2016 - The CyanogenMod Project
+
+Device configuration for ZTE BLADE V7 LITE. 
